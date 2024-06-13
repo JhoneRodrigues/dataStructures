@@ -1,6 +1,10 @@
 package main.dataStructure;
 
+//  Lista encadeada
 public class LinkedList {
+
+/*  Cada dado é armazenado de maneira
+    dinâmica em um nó e sempre lincados com o próximo nó.*/
 
     private Node head;
     private Node tail;
